@@ -5,11 +5,12 @@
       </h1>
       <div class="tag">Software developer • AI enthusiast • Open-source</div>
       <div class="chips">
-        <span class="chip">Java</span>
+        <span class="chip">Java - </span>
         <span class="chip">Python</span>
         <span class="chip">Go</span>
         <span class="chip">TypeScript</span>
         <span class="chip">Machine Learning</span>
+        <span class="chip">Deep Learning</span>
         <span class="chip">LLMs</span>
       </div>
       <div>
