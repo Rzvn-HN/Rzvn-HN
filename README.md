@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Rezvan Hossein Nezhad — Software Developer</title>
+  <title> Rezvan Hossein Nezhad — Software Developer </title>
   <style>
     body { font-family: Inter, system-ui, Arial; max-width: 900px; margin: 40px auto; line-height:1.5; padding: 0 20px; }
     .avatar { width:120px; height:120px; border-radius:999px; object-fit:cover; }
