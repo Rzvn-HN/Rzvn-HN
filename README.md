@@ -1,22 +1,3 @@
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>YOUR_NAME — Software Developer</title>
-  <style>
-    body { font-family: Inter, system-ui, Arial; max-width: 900px; margin: 40px auto; line-height:1.5; padding: 0 20px; }
-    .avatar { width:120px; height:120px; border-radius:999px; object-fit:cover; }
-    header { display:flex; gap:20px; align-items:center; }
-    h1 { margin:0 0 6px 0; font-size:28px; }
-    .tag { color:#666; margin-bottom:12px; }
-    .chips { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px; }
-    .chip { background:#f1f3f5; padding:6px 10px; border-radius:999px; font-size:14px; }
-    .projects { display:grid; grid-template-columns:repeat(auto-fit, minmax(240px,1fr)); gap:12px; margin-top:12px; }
-    .card { border:1px solid #eee; padding:12px; border-radius:8px; background:#fff; }
-    footer { color:#777; font-size:13px; margin-top:30px; }
-    a { color:#0366d6; text-decoration:none; }
-  </style>
-</head>
-<body>
   <header>
     <img class="avatar" src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" alt="avatar">
     <div>
