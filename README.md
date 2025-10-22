@@ -28,20 +28,6 @@
     </p>
   </section>
 
-  <section>
-    <h2>Selected projects</h2>
-    <div class="projects">
-      <div class="card">
-        <strong><a href="https://github.com/YOUR_GITHUB_USERNAME/project-1">project-1</a></strong>
-        <p>Short sentence describing what it does and the stack (e.g., Python + FastAPI + Docker).</p>
-      </div>
-      <div class="card">
-        <strong><a href="https://github.com/YOUR_GITHUB_USERNAME/project-2">project-2</a></strong>
-        <p>Short sentence describing what it does and notable features (e.g., LLM-driven assistant).</p>
-      </div>
-      <!-- add more cards as needed -->
-    </div>
-  </section>
 
   <section>
     <h2>Skills & tools</h2>
