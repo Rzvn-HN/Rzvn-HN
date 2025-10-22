@@ -17,7 +17,7 @@
   🔭 I’m currently working on <strong>image processing with Python</strong><br/>
   🌱 I’m learning <strong>OpenCV, Deep Learning</strong><br/>
   💬 Ask me about <strong>computer vision, AI, and UI design</strong><br/>
-  📫 How to reach me: <a href="mailto:yourname@example.com">yourname@example.com</a>
+  📫 How to reach me: <a href="mailto:yourname@example.com">Rzvn.hn@gmail.com</a>
 </p>
 </p>
 
@@ -30,7 +30,7 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rzvn-HN&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 
 <!-- Footer -->
