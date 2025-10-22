@@ -47,6 +47,14 @@
     <h2>Skills & tools</h2>
     <p>Python •  Java • Go • JavaScript/TypeScript • Git • CI/CD • Docker • Git • LangChain • Hugging Face • APIs</p>
   </section>
+    <section>
+  <h2> 🧰 Development Environment </h2>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</section>
 
 
   <footer>
@@ -54,3 +62,5 @@
   </footer>
 </body>
 </html>
+
+
