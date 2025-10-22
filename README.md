@@ -19,10 +19,20 @@
   </section>
 
 
-  <section>
-    <h2>Skills & tools</h2>
-    <p>Python •  Java • Go • JavaScript/TypeScript • Git • CI/CD • Docker • APIs (Hugging Face,...) • html/css • c++ • c </p>
-  </section>
+<section>
+  <h2>Skills & Tools</h2>
+
+  Python • Java • Go • JavaScript/TypeScript • Git • CI/CD • Docker • APIs (Hugging Face, ...) • HTML/CSS • C++ • C <br>
+  
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=machinelearning&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=deeplearning&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Pillow](https://img.shields.io/badge/Pillow-FFB532?style=for-the-badge&logo=pillow&logoColor=white)
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00C1D4?style=for-the-badge&logo=computervision&logoColor=white)
+</section>
+
   
 <section>
   <h2>Development Environment</h2>
