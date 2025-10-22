@@ -33,7 +33,7 @@
     <h2>Skills & tools</h2>
     <p>Python •  Java • Go • JavaScript/TypeScript • Git • CI/CD • Docker • Git • LangChain • Hugging Face • APIs</p>
     <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,opencv,linux,html,css,js,androidstudio,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,opencv,js,linux,langchain,html,css,androidstudio,github" />
 </p>
   </section>
     <section>
