@@ -1,9 +1,9 @@
   <header>
     <img class="avatar" src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" alt="avatar">
     <div>
-      <h1>Hi — I'm Rezvan Hossein Nezhad</h1>
+      <h1>Hi — I'm Rezvan Hossein Nezhad <Br> But you can call me <strong>Rey</strong>
+      </h1>
       <div class="tag">Software developer • AI enthusiast • Open-source</div>
-      <div>But you can call me <strong>Rey</strong>.</div>
       <div class="chips">
         <span class="chip">Python</span>
         <span class="chip">Go</span>
