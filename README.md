@@ -24,7 +24,7 @@
 <!-- Skills -->
 <h2 align="center">🛠️ Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i= java,python,opencv,linux,html,css,js,androidstudio,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,opencv,linux,html,css,js,androidstudio,github" />
 </p>
 
 
