@@ -45,7 +45,7 @@
 
   <section>
     <h2>Skills & tools</h2>
-    <p>Python • Go • JavaScript/TypeScript • Java • Git • CI/CD • Docker • Cloud (AWS/GCP) • LangChain • Hugging Face • OpenAI APIs</p>
+    <p>Python •  Java • Go • JavaScript/TypeScript • Git • CI/CD • Docker • Git • LangChain • Hugging Face • APIs</p>
   </section>
 
 
