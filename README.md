@@ -24,14 +24,9 @@
 <!-- Skills -->
 <h2 align="center">🛠️ Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,html,css,js,androidstudio,github" />
+  <img src="https://skillicons.dev/icons?i= java,python,opencv,linux,html,css,js,androidstudio,github" />
 </p>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rzvn-HN&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
 
 <!-- Footer -->
 <p align="center">⭐️ From <a href="https://github.com/Rzvn-HN">Rzvn-HN
