@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://github.com/Rzvn-HN
 ">
-    <img src="https://komarev.com/ghpvc/?username=Rzvn-HN
-&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
   </a>
 </p>
 
@@ -18,7 +17,7 @@
   🔭 I’m currently working on <strong>image processing with Python</strong><br/>
   🌱 I’m learning <strong>OpenCV, Deep Learning</strong><br/>
   💬 Ask me about <strong>computer vision, AI, and UI design</strong><br/>
-  📫 How to reach me: <a href="Rzvn.hn@gmail.com">yourname@example.com</a>
+  📫 How to reach me: <a href="yourname@example.com">Rzvn.hn@gmail.com</a>
 </p>
 
 <!-- Skills -->
