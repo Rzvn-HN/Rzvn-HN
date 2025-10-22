@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Rezvan HosseinNezhad <h2 align="center">But you can call me <strong>Rey</strong> 😊</h2></h1>
+<h1 align="center">Hi 👋, I'm Rezvan HosseinNezhad </h1>
 <h2 align="center">But you can call me <strong>Rey</strong> 😊</h2>
 
 <!-- Subtitle -->
