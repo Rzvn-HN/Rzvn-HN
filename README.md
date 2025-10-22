@@ -17,7 +17,8 @@
   🔭 I’m currently working on <strong>image processing with Python</strong><br/>
   🌱 I’m learning <strong>OpenCV, Deep Learning</strong><br/>
   💬 Ask me about <strong>computer vision, AI, and UI design</strong><br/>
-  📫 How to reach me: <a href="yourname@example.com">Rzvn.hn@gmail.com</a>
+  📫 How to reach me: <a href="mailto:yourname@example.com">yourname@example.com</a>
+</p>
 </p>
 
 <!-- Skills -->
@@ -33,6 +34,6 @@
 </p>
 
 <!-- Footer -->
-<p align="center">⭐️ From <a href="https://github.com/your-username">Rzvn-HN
+<p align="center">⭐️ From <a href="https://github.com/Rzvn-HN">Rzvn-HN
 </a></p>
 
