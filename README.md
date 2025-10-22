@@ -13,7 +13,7 @@
   <section>
     <h2>About</h2>
     <p>
-      I’m passionate about building tools and AI features that solve real problems. From experimenting with models to designing APIs and web apps, I enjoy taking projects from idea to production. I love streamlining workflows, writing clear documentation, and shipping reliable code that makes others’ work easier. 
+      I’m passionate about building tools and AI features that solve real problems. From experimenting with models to designing APIs and web apps, I enjoy taking projects from idea to production. <br> 
       I also enjoy exploring new technologies, learning continuously, and finding creative ways to simplify complex systems.
     </p>
   </section>
