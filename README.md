@@ -1,10 +1,28 @@
-<!-- Title -->
-<h1 align="center">Hi 👋, I'm Rezvan HosseinNezhad <br> But you can call me <strong>Rey</strong> 😊</h1>
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Rezvan Hossein Nezhad — Software Developer</title>
+  <style>
+    body { font-family: Inter, system-ui, Arial; max-width: 900px; margin: 40px auto; line-height:1.5; padding: 0 20px; }
+    .avatar { width:120px; height:120px; border-radius:999px; object-fit:cover; }
+    header { display:flex; gap:20px; align-items:center; }
+    h1 { margin:0 0 6px 0; font-size:28px; }
+    .tag { color:#666; margin-bottom:12px; }
+    .chips { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px; }
+    .chip { background:#f1f3f5; padding:6px 10px; border-radius:999px; font-size:14px; }
+    .projects { display:grid; grid-template-columns:repeat(auto-fit, minmax(240px,1fr)); gap:12px; margin-top:12px; }
+    .card { border:1px solid #eee; padding:12px; border-radius:8px; background:#fff; }
+    footer { color:#777; font-size:13px; margin-top:30px; }
+    a { color:#0366d6; text-decoration:none; }
+  </style>
+</head>
+<body>
   <header>
-    <img class="avatar" src="https://avatars.githubusercontent.com/Rzvn-HN" alt="avatar"> 
+    <img class="avatar" src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" alt="avatar">
     <div>
-      <h1>Hi — I'm Rezvan Hossen Nezhad</h1> 
+      <h1>Hi — I'm Rezvan Hossein Nezhad</h1>
       <div class="tag">Software developer • AI enthusiast • Open-source</div>
       <div>But you can call me <strong>Rey</strong>.</div>
       <div class="chips">
@@ -16,40 +34,11 @@
       </div>
       <div>
         <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">My projects</a> •
-        <a href="mailto:you@example.com">Email</a> •
+        <a href="mailto:you@example.com">Rzvn.hn@gmail.com</a> •
         <a href="https://linkedin.com/in/YOUR_PROFILE">LinkedIn</a>
       </div>
     </div>
   </header>
-
-<!-- Subtitle -->
-<h3 align="center">A passionate developer 💻 </h3>
-
-
-
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Rzvn-HN
-">
-
-  </a>
-</p>
-
-<!-- About section -->
-<p align="center">
-  🔭 I’m currently working on <strong>image processing with Python</strong><br/>
-  🌱 I’m learning <strong>Machin Learning, Deep Learning</strong><br/>
-  💬 Ask me about <strong>computer vision, AI, and UI design</strong><br/>
-  📫 How to reach me: <a href="mailto:yourname@example.com">Rzvn.hn@gmail.com</a>
-</p>
-</p>
-
-<!-- Skills -->
-<h2 align="center">🛠️ Skills</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,opencv,linux,html,css,js,androidstudio,github" />
-</p>
-
 
   <section>
     <h2>About</h2>
@@ -80,7 +69,8 @@
   </section>
 
 
-<!-- Footer -->
-<p align="center">⭐️ From <a href="https://github.com/Rzvn-HN">Rzvn-HN
-</a></p>
-
+  <footer>
+    <div>🔭 Currently learning: Prompt engineering & LLM fine-tuning</div>
+  </footer>
+</body>
+</html>
