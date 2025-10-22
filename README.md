@@ -15,7 +15,7 @@
       </div>
       <div>
         <a href="https://github.com/Rzvn-HN?tab=repositories">My projects</a> •
-        <a href="mailto:Rzvn.hn@gmail.com">My Email</a> •
+        <a href="mailto:Rzvn.hn@gmail.com">Email</a> •
       </div>
     </div>
   </header>
