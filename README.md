@@ -1,7 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Rezvan HosseinNezhad <br> But you can call me <strong>Rey</strong> 😊</h1>
 
-<hr>
 <!-- Subtitle -->
 <h3 align="center">A passionate developer 🌍</h3>
 
