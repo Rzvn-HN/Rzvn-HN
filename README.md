@@ -1,5 +1,4 @@
   <header>
-    <img class="avatar" src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" alt="avatar">
     <div>
       <h1>Hi 👋, I'm Rezvan HosseinNezhad <br> But you can call me <strong>Rey</strong> 😊
       </h1>
