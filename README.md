@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Rezvan HosseinNezhad</h1>
 
-<!--
-**Rzvn-HN/Rzvn-HN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Subtitle -->
+<h3 align="center">A passionate developer from 🌍</h3>
 
-Here are some ideas to get you started:
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/Rzvn-HN
+">
+    <img src="https://komarev.com/ghpvc/?username=Rzvn-HN
+&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About section -->
+<p align="center">
+  🔭 I’m currently working on <strong>image processing with Python</strong><br/>
+  🌱 I’m learning <strong>OpenCV, Deep Learning</strong><br/>
+  💬 Ask me about <strong>computer vision, AI, and UI design</strong><br/>
+  📫 How to reach me: <a href="Rzvn.hn@gmail.com">yourname@example.com</a>
+</p>
+
+<!-- Skills -->
+<h2 align="center">🛠️ Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,html,css,js,androidstudio,github" />
+</p>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+<!-- Footer -->
+<p align="center">⭐️ From <a href="https://github.com/your-username">Rzvn-HN
+</a></p>
+
