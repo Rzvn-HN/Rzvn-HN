@@ -31,7 +31,7 @@
 
   <section>
     <h2>Skills & tools</h2>
-    <p>Python •  Java • Go • JavaScript/TypeScript • Git • CI/CD • Docker • Git • LangChain • Hugging Face • APIs</p>
+    <p>Python •  Java • Go • JavaScript/TypeScript • Git • CI/CD • Docker • APIs(Hugging Face,...)</p>
   </section>
   
  <section>
