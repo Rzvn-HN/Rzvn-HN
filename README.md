@@ -3,7 +3,7 @@
 <h3 align="center">But you can call me <strong>Rey</strong> 😊</h3>
 
 <!-- Subtitle -->
-<h3 align="center">A passionate developer from 🌍</h3>
+<h3 align="center">A passionate developer 🌍</h3>
 
 <!-- Badges -->
 <p align="center">
