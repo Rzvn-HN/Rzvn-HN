@@ -14,7 +14,7 @@
         <span class="chip">LLMs</span>
       </div>
       <div>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">My projects</a> •
+        <a href="https://github.com/Rzvn-HN?tab=repositories">My projects</a> •
         <a href="mailto:you@example.com">Rzvn.hn@gmail.com</a> •
         <a href="https://linkedin.com/in/YOUR_PROFILE">LinkedIn</a>
       </div>
