@@ -13,8 +13,8 @@
   <section>
     <h2>About</h2>
     <p>
-      I build production-ready tools and AI features — from model experiments to APIs and web apps.
-      I enjoy improving developer workflows with automation, writing clear documentation, and shipping quality code.
+      I’m passionate about building tools and AI features that solve real problems. From experimenting with models to designing APIs and web apps, I enjoy taking projects from idea to production. I love streamlining workflows, writing clear documentation, and shipping reliable code that makes others’ work easier. 
+      I also enjoy exploring new technologies, learning continuously, and finding creative ways to simplify complex systems.
     </p>
   </section>
 
