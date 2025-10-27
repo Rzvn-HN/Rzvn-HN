@@ -4,7 +4,7 @@
       </h1>
       <div class="tag">Software developer • AI enthusiast </div>
       <div>
-        <a href="https://github.com/Rzvn-HN?tab=repositories">My projects</a> •
+        <a href="https://github.com/Rzvn-HN?tab=repositories">My projects </a> •
         <a href="mailto:Rzvn.hn@gmail.com">Email</a> •
       </div>
     </div>
@@ -15,6 +15,8 @@
     <p>
       I’m passionate about building tools and AI features that solve real problems. From experimenting with models to designing APIs and web apps, I enjoy taking projects from idea to production. <br> 
       I also enjoy exploring new technologies, learning continuously, and finding creative ways to simplify complex systems. 😄
+      <br><br>
+      🚀 <strong>Currently uploading my backlog of completed projects - stay tuned!</strong>
     </p>
   </section>
 
